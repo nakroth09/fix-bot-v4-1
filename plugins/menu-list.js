@@ -17,7 +17,7 @@ Pilihan Menunya Dibawah
 
 `.trimStart(),
   header: '⃝▣──「 %category 」───⬣',
-  body: `${emot} %cmd %isPremium %islimit`,
+  body: `%c2 %cmd %islimit`,
   footer: '▣───────────⬣\n',
   after: `%c4 %me`,
 }
